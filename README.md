@@ -1,16 +1,16 @@
-## **👋🏻 Hey**
+## **👋🏻 Hey**
 
-I’m Tomasz, a software engineer based in Gdańsk, Poland. I’m passionate about craftsmanship and creating pragmatic and well-crafted software that brings real value to businesses and users, guiding projects from concept to production with hands-on ownership.
+I’m Tomasz, a software engineer based in Gdańsk, Poland. I’m passionate about craftsmanship and creating pragmatic, well-crafted software that brings real value to businesses and users, guiding projects from idea to production with hands-on ownership.
 
 ## 🛠️ Technologies
 
-**Backend:** C# / .NET , Typescript, SQL, Python
+**Backend:** C# / .NET, Typescript, SQL, Python
 
-**Frontend:** React, Angular, Next.js, Tailwind
+**Frontend:** Angular, React, Next.js 
 
-**DevOps:** Observability, CI/CD, Docker, Kubernetes, Terraform, AWS, bare metal
+**DevOps:** AWS, CI/CD, Docker, Kubernetes, Terraform, Observability
 
-## 🗄️ Public repositories
+## 🗄️ Public repositories
 
 | Repository | Description | Technologies Used |
 | --- | --- | --- |
