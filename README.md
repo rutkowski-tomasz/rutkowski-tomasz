@@ -15,7 +15,7 @@ I’m Tomasz, a software engineer based in Gdańsk, Poland. I’m passionate abo
 | Repository | Description | Technologies Used |
 | --- | --- | --- |
 | [ExpenseSplitter.Api](https://github.com/rutkowski-tomasz/ExpenseSplitter.Api) | API for managing shared expenses, supporting group payments and reporting. | C#, .NET, Docker, Kubernetes, DDD, Clean Architecture, OpenTelemetry |
-| [aws-url-shortener](https://github.com/rutkowski-tomasz/aws-url-shortener) | Serverless solution for shortening URLs, minimizing infrastructure overhead. | AWS (Lambda, S3, CloudFront, SQS, SNS, DynamoDB, Cognito, EventBridge), TypeScript, Python |
+| [aws-url-shortener](https://github.com/rutkowski-tomasz/aws-url-shortener) | Serverless solution for shortening URLs, minimizing infrastructure overhead. | AWS (Lambda, S3, CloudFront, SQS, SNS, DynamoDB, Cognito, EventBridge), Terraform, TypeScript, Python |
 | [cod2-as-code](https://github.com/rutkowski-tomasz/cod2-as-code) | Automated solution for deploying and managing Call of Duty 2 game servers. | HCL, Terraform, Docker |
 | [cod2-docker](https://github.com/rutkowski-tomasz/cod2-docker) | Containerized setup for running Call of Duty 2 servers with extra features. | Docker, Libcod |
 | [GeoDistanceCalculator](https://github.com/rutkowski-tomasz/GeoDistanceCalculator) | Application for calculating distances between geographic points, integrating backend and frontend logic. | C#, Angular, Docker, Kubernetes |
