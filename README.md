@@ -10,7 +10,7 @@ I’m Tomasz, a software engineer based in Gdańsk, Poland. I’m passionate abo
 
 **DevOps:** AWS, CI/CD, Docker, Kubernetes, Terraform, Observability
 
-## 🗄️ Repositories
+## 🪴 Projects
 
 | Repository | Description | Technologies Used |
 | --- | --- | --- |
