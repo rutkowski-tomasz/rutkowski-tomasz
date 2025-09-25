@@ -2,7 +2,7 @@
 
 I’m Tomasz, a software engineer based in Gdańsk, Poland. I’m passionate about craftsmanship and creating pragmatic, well-crafted software that brings real value to businesses and users, guiding projects from idea to production with hands-on ownership.
 
-## 🛠️ Technologies
+## 🧭 Tech Radar
 
 **Backend:** C# / .NET, TypeScript, SQL, Python
 
@@ -10,7 +10,7 @@ I’m Tomasz, a software engineer based in Gdańsk, Poland. I’m passionate abo
 
 **DevOps:** AWS, CI/CD, Docker, Kubernetes, Terraform, Observability
 
-## 🗄️ Public repositories
+## 🗄️ Repositories
 
 | Repository | Description | Technologies Used |
 | --- | --- | --- |
